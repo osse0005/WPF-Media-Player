@@ -1,0 +1,13 @@
+C:\Users\Tim\Documents\School\NET\Assignment3\Assignment3\bin\Debug\Assignment3.exe.config
+C:\Users\Tim\Documents\School\NET\Assignment3\Assignment3\bin\Debug\Assignment3.exe
+C:\Users\Tim\Documents\School\NET\Assignment3\Assignment3\bin\Debug\Assignment3.pdb
+C:\Users\Tim\Documents\School\NET\Assignment3\Assignment3\obj\Debug\MainWindow.baml
+C:\Users\Tim\Documents\School\NET\Assignment3\Assignment3\obj\Debug\MainWindow.g.cs
+C:\Users\Tim\Documents\School\NET\Assignment3\Assignment3\obj\Debug\App.g.cs
+C:\Users\Tim\Documents\School\NET\Assignment3\Assignment3\obj\Debug\Assignment3_MarkupCompile.cache
+C:\Users\Tim\Documents\School\NET\Assignment3\Assignment3\obj\Debug\Assignment3.g.resources
+C:\Users\Tim\Documents\School\NET\Assignment3\Assignment3\obj\Debug\Assignment3.Properties.Resources.resources
+C:\Users\Tim\Documents\School\NET\Assignment3\Assignment3\obj\Debug\Assignment3.csproj.GenerateResource.Cache
+C:\Users\Tim\Documents\School\NET\Assignment3\Assignment3\obj\Debug\Assignment3.exe
+C:\Users\Tim\Documents\School\NET\Assignment3\Assignment3\obj\Debug\Assignment3.pdb
+C:\Users\Tim\Documents\School\NET\Assignment3\Assignment3\obj\Debug\Assignment3.csprojResolveAssemblyReference.cache
